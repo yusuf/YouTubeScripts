@@ -8,11 +8,11 @@ FEATURES
 Initial ruby coding was based on http://www.yusufshunan.com/2011/09/youtube-video-download-scrip-ruby/
 Though that version needed a lot of tweaks...
 
-* Fetch Different Quality/File Type Video URL from youtube website
-* Prompt for Quality & FileType
-* Download the selected Quality/Type Youtube Video
-* Easy Youtube Link Input
-* Download Progress Bar
+* 0 Fetch Different Quality/File Type Video URL from youtube website
+* 1 Prompt for Quality & FileType
+* 2 Download the selected Quality/Type Youtube Video
+* 3 Easy Youtube Link Input
+* 4 Download Progress Bar
 
 STATUS : Done/Planned
 =======================
