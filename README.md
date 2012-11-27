@@ -8,44 +8,44 @@ FEATURES
 Initial ruby coding was based on http://www.yusufshunan.com/2011/09/youtube-video-download-scrip-ruby/
 Though that version needed a lot of tweaks...
 
-0 Fetch Different Quality/File Type Video URL from youtube website
-1 Prompt for Quality & FileType
-2 Download the selected Quality/Type Youtube Video
-3 Easy Youtube Link Input
-4 Download Progress Bar
+* Fetch Different Quality/File Type Video URL from youtube website
+* Prompt for Quality & FileType
+* Download the selected Quality/Type Youtube Video
+* Easy Youtube Link Input
+* Download Progress Bar
 
 STATUS : Done/Planned
 =======================
 List of languages that I plan to port this, the list may increate/decrease without warning!
 
-Ruby: 3
-PHP: 0
-Perl: 0
-C++: 0
-Python: Pending
-Bash: Pending
-Java: Pending
-Ada: Pending
-C: Pending
-Objective-C: Pending
-Haxe: Pending
-Haskell: Pending
-JavaScript: Pending
-Lisp: Pending
-Scala: Pending
-Vala: Pending
-VBScript: Pending
-Visual Basic: Pending
-ActionScript: Pending
-Basic: Pending
-C#: Pending
-Clojure: Pending
-Lua: Pending
-Pascal: Pending
-Tcl: Pending
-Fortran: Pending
-D: Pending
-F#: Pending
+- Ruby: 3
+- PHP: 0
+- Perl: 0
+- C++: 0
+- Python: Pending
+- Bash: Pending
+- Java: Pending
+- Ada: Pending
+- C: Pending
+- Objective-C: Pending
+- Haxe: Pending
+- Haskell: Pending
+- JavaScript: Pending
+- Lisp: Pending
+- Scala: Pending
+- Vala: Pending
+- VBScript: Pending
+- Visual Basic: Pending
+- ActionScript: Pending
+- Basic: Pending
+- C#: Pending
+- Clojure: Pending
+- Lua: Pending
+- Pascal: Pending
+- Tcl: Pending
+- Fortran: Pending
+- D: Pending
+- F#: Pending
 
 
 CREDITS
